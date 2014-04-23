@@ -322,4 +322,3 @@ SciPrintVar(CMAKE_Fortran_FLAGS_RELEASE)
 SciPrintVar(CMAKE_Fortran_FLAGS_RELWITHDEBINFO)
 SciPrintVar(CMAKE_Fortran_FLAGS_DEBUG)
 SciPrintVar(CMAKE_Fortran_FLAGS)
-
